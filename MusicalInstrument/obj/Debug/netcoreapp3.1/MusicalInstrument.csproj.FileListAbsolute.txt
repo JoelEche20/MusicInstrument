@@ -1,0 +1,13 @@
+C:\Users\Joel\Desktop\ArquiSoft\MusicalInstrument\MusicalInstrument\bin\Debug\netcoreapp3.1\MusicalInstrument.exe
+C:\Users\Joel\Desktop\ArquiSoft\MusicalInstrument\MusicalInstrument\bin\Debug\netcoreapp3.1\MusicalInstrument.deps.json
+C:\Users\Joel\Desktop\ArquiSoft\MusicalInstrument\MusicalInstrument\bin\Debug\netcoreapp3.1\MusicalInstrument.runtimeconfig.json
+C:\Users\Joel\Desktop\ArquiSoft\MusicalInstrument\MusicalInstrument\bin\Debug\netcoreapp3.1\MusicalInstrument.runtimeconfig.dev.json
+C:\Users\Joel\Desktop\ArquiSoft\MusicalInstrument\MusicalInstrument\bin\Debug\netcoreapp3.1\MusicalInstrument.dll
+C:\Users\Joel\Desktop\ArquiSoft\MusicalInstrument\MusicalInstrument\bin\Debug\netcoreapp3.1\MusicalInstrument.pdb
+C:\Users\Joel\Desktop\ArquiSoft\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.csprojAssemblyReference.cache
+C:\Users\Joel\Desktop\ArquiSoft\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.AssemblyInfoInputs.cache
+C:\Users\Joel\Desktop\ArquiSoft\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.AssemblyInfo.cs
+C:\Users\Joel\Desktop\ArquiSoft\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Desktop\ArquiSoft\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.dll
+C:\Users\Joel\Desktop\ArquiSoft\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.pdb
+C:\Users\Joel\Desktop\ArquiSoft\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.genruntimeconfig.cache
